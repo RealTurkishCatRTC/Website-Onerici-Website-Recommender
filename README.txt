@@ -10,4 +10,4 @@ NOTE: DONT DOUBLE CLICK TO TH FILE! IT WILL OPEN CMD-LIKE SCREEN AND IT WILL NOT
 5-Find the .py file(or files)of my project.
 6-And Then it will start
 
-Note:This Project Has A MIT LICENSE so read the license.md file
+Note:This Project Has A MIT LICENSE so read the "LICENSE" file
